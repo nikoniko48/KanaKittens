@@ -1,0 +1,52 @@
+# Build generated files
+.build/
+DerivedData/
+
+# Xcode files
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/
+*.xcuserstate
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+Packages/
+Package.resolved
+
+# Carthage
+Carthage/
+
+# SwiftPM
+/.build/
+
+# User-specific files
+*.swp
+.idea/
+
+# macOS system files
+.DS_Store
+Thumbs.db
+
+# Archive files
+*.xcarchive
+*.ipa
+*.dSYM/
+
+# iOS Simulator data
+*.app.dSYM
+# Ignore image files (if you don't need to track them)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.tiff
+*.bmp
+*.webp
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
